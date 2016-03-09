@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  9 MAR 2016 20:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  9 MAR 2016 22:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -851,6 +851,18 @@ Overfull \hbox (6.04184pt too wide) in paragraph at lines 52--53
  []
 
 
+Overfull \hbox (4.75885pt too wide) in paragraph at lines 55--56
+[]\EU1/TimesNewRoman(0)/m/n/12 Снижение заработной платы профессоров с увеличен
+ием стажа работы является довольно
+ []
+
+
+Overfull \hbox (24.30783pt too wide) in paragraph at lines 55--56
+\EU1/TimesNewRoman(0)/m/n/12 необычным феноменом для рынка труда, так как прави
+ло наблюдается абсолютно противоположный
+ []
+
+
 Overfull \hbox (4.27383pt too wide) in paragraph at lines 58--59
 \EU1/TimesNewRoman(0)/m/n/12 зависимости уровня заработных плат и продолжительн
 ости времени работы в конкретном месте.
@@ -874,7 +886,9 @@ Overfull \hbox (4.7258pt too wide) in paragraph at lines 58--59
 тели выявляют отрицательную зависимость
  []
 
+[1
 
+]
 Overfull \hbox (11.47464pt too wide) in paragraph at lines 60--61
 \EU1/TimesNewRoman(0)/m/n/12 Study (1969) заключило что, индивиды, проработавши
 е как минимум 30 лет в одном университете,
@@ -892,9 +906,7 @@ Overfull \hbox (5.49924pt too wide) in paragraph at lines 60--61
 мость нанимающего учреждения частным
  []
 
-[1
 
-]
 Overfull \hbox (16.31094pt too wide) in paragraph at lines 64--65
 \EU1/TimesNewRoman(0)/m/n/12 Для всей выборки университетов корреляция между за
 работными платами и сеньорити не являлась
@@ -1096,8 +1108,9 @@ Overfull \hbox (37.06448pt too wide) in paragraph at lines 95--96
  являться выбор, который сделает преподаватель.
  []
 
+[5]
 LaTeX Font Info:    Try loading font information for U+dsrom on input line 97.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/doublestroke/Udsrom.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
 )
 Overfull \hbox (7.61172pt too wide) in paragraph at lines 98--100
@@ -1111,7 +1124,7 @@ Overfull \hbox (19.67776pt too wide) in paragraph at lines 98--100
 ть лишь тот университет, который предложил
  []
 
-[5]
+
 Overfull \hbox (15.65027pt too wide) in paragraph at lines 101--102
 []\EU1/TimesNewRoman(0)/m/n/12 Возможен также случай, когда несколько университ
 етов предложат максимальную зарплату.
@@ -1182,7 +1195,7 @@ Overfull \hbox (3.9465pt too wide) in paragraph at lines 126--127
 он можно рассматривать как олигопсонию.
  []
 
-
+[7]
 Overfull \hbox (29.53426pt too wide) in paragraph at lines 128--130
 \EU1/TimesNewRoman(0)/m/n/12 http://salaries.texastribune.org/university-of-hou
 ston/. Перед началом анализа данные были обработаны.
@@ -1207,7 +1220,7 @@ Overfull \hbox (10.41902pt too wide) in paragraph at lines 128--130
 верситете. Для анализа будут использованы
  []
 
-[7] [8]
+[8]
 Overfull \hbox (57.55145pt too wide) in paragraph at lines 198--199
 []\EU1/TimesNewRoman(0)/m/n/12 Также, возможные проблемы могут возникать из-за 
 того, что выборка не является репрезентативной.
@@ -1220,18 +1233,24 @@ Overfull \hbox (21.73282pt too wide) in paragraph at lines 198--199
  []
 
 File: image1.jpg Graphic file (type QTm)
-<use  "image1.jpg" > (./inst_proj.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 211.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 211.
+<use  "image1.jpg" >
+Overfull \hbox (1.93283pt too wide) in paragraph at lines 207--208
+\EU1/TimesNewRoman(0)/m/n/12 относится к профессорам Лиги Плюща, в следствие эт
+ого профессор получает некоторую власть
+ []
+
+[9] (./inst_proj.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
+ [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
  (./inst_proj.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 211.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 211.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 213.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 213.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  ) 
 Here is how much of TeX's memory you used:
  22831 strings out of 493706
@@ -1240,6 +1259,6 @@ Here is how much of TeX's memory you used:
  25982 multiletter control sequences out of 15000+600000
  9085 words of font info for 55 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,6n,61p,10387b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,6n,61p,10387b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on inst_proj.pdf (9 pages).
+Output written on inst_proj.pdf (10 pages).
