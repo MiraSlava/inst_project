@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  9 MAR 2016 20:13
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  9 MAR 2016 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -865,12 +865,26 @@ Overfull \hbox (4.27383pt too wide) in paragraph at lines 50--51
  []
 
 
-Overfull \hbox (15.08894pt too wide) in paragraph at lines 50--51
-\EU1/TimesNewRoman(0)/m/n/12 исследователи выявляют отрицательную зависимость. 
-Именно таковым и является академический
+Overfull \hbox (7.36447pt too wide) in paragraph at lines 50--51
+\EU1/TimesNewRoman(0)/m/n/12 Согласно ей фирма поощряет работника за приобретен
+ие навыков и знаний, которые специфичны
  []
 
 
+Overfull \hbox (18.83583pt too wide) in paragraph at lines 50--51
+\EU1/TimesNewRoman(0)/m/n/12 для конкретного работодателя. Фирма устанавливает 
+более высокую заработную плату, стимулируя
+ []
+
+
+Overfull \hbox (4.7258pt too wide) in paragraph at lines 50--51
+\EU1/TimesNewRoman(0)/m/n/12 Всё же существуют такие рынки труда, где исследова
+тели выявляют отрицательную зависимость
+ []
+
+[1
+
+]
 Overfull \hbox (11.47464pt too wide) in paragraph at lines 52--53
 \EU1/TimesNewRoman(0)/m/n/12 Study (1969) заключило что, индивиды, проработавши
 е как минимум 30 лет в одном университете,
@@ -888,9 +902,7 @@ Overfull \hbox (5.49924pt too wide) in paragraph at lines 52--53
 мость нанимающего учреждения частным
  []
 
-[1
 
-]
 Overfull \hbox (16.31094pt too wide) in paragraph at lines 56--57
 \EU1/TimesNewRoman(0)/m/n/12 Для всей выборки университетов корреляция между за
 работными платами и сеньорити не являлась
@@ -1170,7 +1182,7 @@ Overfull \hbox (3.9465pt too wide) in paragraph at lines 118--119
 он можно рассматривать как олигопсонию.
  []
 
-
+[7]
 Overfull \hbox (29.53426pt too wide) in paragraph at lines 120--122
 \EU1/TimesNewRoman(0)/m/n/12 http://salaries.texastribune.org/university-of-hou
 ston/. Перед началом анализа данные были обработаны.
@@ -1195,7 +1207,7 @@ Overfull \hbox (10.41902pt too wide) in paragraph at lines 120--122
 верситете. Для анализа будут использованы
  []
 
-[7] [8]
+[8]
 Overfull \hbox (57.55145pt too wide) in paragraph at lines 190--191
 []\EU1/TimesNewRoman(0)/m/n/12 Также, возможные проблемы могут возникать из-за 
 того, что выборка не является репрезентативной.
