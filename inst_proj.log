@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  9 MAR 2016 23:19
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  9 MAR 2016 23:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1188,117 +1188,111 @@ ML/cmm/m/it/12 w[] \OT1/cmr/m/n/12 + (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 p
 it/12 w[] \OMS/cmsy/m/n/12 ^^T \OML/cmm/m/it/12 w[]
  []
 
-
-Overfull \hbox (10.20627pt too wide) in paragraph at lines 110--114
-\EU1/TimesNewRoman(0)/m/n/12 Более того, в равновесии ожидаемые издержки отдель
-ного ВУЗа не должны превышать рыночную
- []
-
 [6]
-Overfull \hbox (4.02644pt too wide) in paragraph at lines 122--123
+Overfull \hbox (4.02644pt too wide) in paragraph at lines 121--122
 \EU1/TimesNewRoman(0)/m/n/12 одном городе предлагают профессору рыночную зарпла
 ту. Но так как теперь ВУЗам безразлично
  []
 
 
-Overfull \hbox (2.58127pt too wide) in paragraph at lines 124--125
+Overfull \hbox (2.58127pt too wide) in paragraph at lines 123--124
 \EU1/TimesNewRoman(0)/m/n/12 Аналогично монопсонической модели мы можем предпол
 ожить, что в течение жизни профессор
  []
 
 
-Overfull \hbox (12.40224pt too wide) in paragraph at lines 124--125
+Overfull \hbox (12.40224pt too wide) in paragraph at lines 123--124
 \EU1/TimesNewRoman(0)/m/n/12 ВУЗы вступают редко. Следовательно, в какие-то пер
 иоды мы будем снова оказываться в ситуации
  []
 
 
-Overfull \hbox (24.84848pt too wide) in paragraph at lines 126--127
+Overfull \hbox (24.84848pt too wide) in paragraph at lines 125--126
 \EU1/TimesNewRoman(0)/m/n/12 будет наблюдаться, однако теперь он слабее, чем на
  рынках, где присутствует лишь один университет
  []
 
 
-Overfull \hbox (4.27528pt too wide) in paragraph at lines 130--131
+Overfull \hbox (4.27528pt too wide) in paragraph at lines 129--130
 \EU1/TimesNewRoman(0)/m/n/12 система университетов. Во-первых, университеты вну
 три этой системы независимы и примерно
  []
 
 [7]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 132
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 131
 .
  (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (20.54323pt too wide) in paragraph at lines 132--134
+Overfull \hbox (20.54323pt too wide) in paragraph at lines 131--133
 [][]$[][][][] [] [] [] [][][][][][][][] [] [][][][][][][][][][][][] [] [][][] [
 ] [][][][][][][][][][][][][][][][][][][][][][][][]$[][]\EU1/TimesNewRoman(0)/m/
 n/12 . Перед началом анализа данные
  []
 
 
-Overfull \hbox (6.75539pt too wide) in paragraph at lines 132--134
+Overfull \hbox (6.75539pt too wide) in paragraph at lines 131--133
 \EU1/TimesNewRoman(0)/m/n/12 только работники, занимающиеся преподаванием, то е
 сть профессоры. Наконец, была добавлена
  []
 
 
-Overfull \hbox (34.35097pt too wide) in paragraph at lines 132--134
+Overfull \hbox (34.35097pt too wide) in paragraph at lines 131--133
 \EU1/TimesNewRoman(0)/m/n/12 переменная $\OML/cmm/m/it/12 seniority$\EU1/TimesN
 ewRoman(0)/m/n/12 , показывающая сколько полных лет индивид проработал в данном
  университете.
  []
 
 [8]
-Overfull \hbox (1.72456pt too wide) in paragraph at lines 200--201
+Overfull \hbox (1.72456pt too wide) in paragraph at lines 199--200
 \EU1/TimesNewRoman(0)/m/n/12 которая не включала в себя показатели продуктивнос
 ти профессоров, $\OML/cmm/m/it/12 R[] \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1
 /cmr/m/n/12 33$\EU1/TimesNewRoman(0)/m/n/12 . Такое значение
  []
 
 
-Overfull \hbox (26.25784pt too wide) in paragraph at lines 200--201
+Overfull \hbox (26.25784pt too wide) in paragraph at lines 199--200
 \EU1/TimesNewRoman(0)/m/n/12 объясниться с помощью дополнительных регрессоров, 
 например, количества и качества публикаций,
  []
 
 
-Overfull \hbox (8.76291pt too wide) in paragraph at lines 200--201
+Overfull \hbox (8.76291pt too wide) in paragraph at lines 199--200
 \EU1/TimesNewRoman(0)/m/n/12 приведены примеры моделей, в которых при добавлени
 и в регрессию продуктивных переменных,
  []
 
 
-Overfull \hbox (3.33713pt too wide) in paragraph at lines 200--201
+Overfull \hbox (3.33713pt too wide) in paragraph at lines 199--200
 \EU1/TimesNewRoman(0)/m/n/12 переменных из-за отсутствия ресурсов по сбору данн
 ых, где количество наблюдений превышало
  []
 
 
-Overfull \hbox (57.55145pt too wide) in paragraph at lines 204--205
+Overfull \hbox (57.55145pt too wide) in paragraph at lines 203--204
 []\EU1/TimesNewRoman(0)/m/n/12 Также, возможные проблемы могут возникать из-за 
 того, что выборка не является репрезентативной.
  []
 
 
-Overfull \hbox (21.73282pt too wide) in paragraph at lines 204--205
+Overfull \hbox (21.73282pt too wide) in paragraph at lines 203--204
 \EU1/TimesNewRoman(0)/m/n/12 Такой вывод можно сделать исходя из графика плотно
 сти логарифма заработной платы: в идеальной
  []
 
 File: image1.jpg Graphic file (type QTm)
 <use  "image1.jpg" > [9] (./inst_proj.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
  (./inst_proj.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 217.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 217.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 216.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 216.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
  ) 
 Here is how much of TeX's memory you used:
  22871 strings out of 493706
