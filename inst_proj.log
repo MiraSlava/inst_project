@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  8 MAR 2016 20:19
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  9 MAR 2016 15:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -784,14 +784,77 @@ Overfull \hbox (2.71683pt too wide) in paragraph at lines 91--92
 лишь один университет определенного уровня. 
  []
 
-[3] [4] (./inst_proj.aux) ) 
+[3]
+Overfull \hbox (23.33089pt too wide) in paragraph at lines 95--96
+[]\EU1/TimesNewRoman(0)/m/n/12 В качестве примера, иллюстрирующего вышеописанну
+ю модель, будет рассмотрен Хьюстонская
+ []
+
+
+Overfull \hbox (4.27528pt too wide) in paragraph at lines 95--96
+\EU1/TimesNewRoman(0)/m/n/12 система университетов. Во-первых, университеты вну
+три этой системы независимы и примерно
+ []
+
+
+Overfull \hbox (3.9465pt too wide) in paragraph at lines 95--96
+\EU1/TimesNewRoman(0)/m/n/12 вывод, что рынок академического труда города Хьюст
+он можно рассматривать как олигопсонию.
+ []
+
+
+Overfull \hbox (163.45724pt too wide) in paragraph at lines 97--99
+[]\EU1/TimesNewRoman(0)/m/n/12 Данные о работниках Хьюстонской системы находятс
+я в открытом доступе на сайте: http://salaries.texastribune.org/university-
+ []
+
+
+Overfull \hbox (11.80554pt too wide) in paragraph at lines 97--99
+\EU1/TimesNewRoman(0)/m/n/12 есть профессоры. Наконец, была добавлена переменна
+я $\OML/cmm/m/it/12 seniority$\EU1/TimesNewRoman(0)/m/n/12 , показывающая сколь
+ко полных
+ []
+
+[4]
+Overfull \hbox (18.67651pt too wide) in paragraph at lines 164--166
+[]\EU1/TimesNewRoman(0)/m/n/12 В нашем примере $\OML/cmm/m/it/12 R[] \OT1/cmr/m
+/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 36$\EU1/TimesNewRoman(0)/m/n/12 . Та
+кое значение позволяет нам думать, что зависимость однозначно
+ []
+
+
+Overfull \hbox (6.50589pt too wide) in paragraph at lines 164--166
+\EU1/TimesNewRoman(0)/m/n/12 таких переменных, ибо в нашей базе данных не было 
+возраста преподавателей, а восстанавливать
+ []
+
+
+Overfull \hbox (3.02254pt too wide) in paragraph at lines 164--166
+\EU1/TimesNewRoman(0)/m/n/12 аналогичный у Ransom 1993. Этот факт можно объясни
+ть как раз из-за потерянных нами важных
+ []
+
+
+Overfull \hbox (41.03305pt too wide) in paragraph at lines 167--168
+[]\EU1/TimesNewRoman(0)/m/n/12 Также, возможные проблемы могут возникать из-за 
+того, что выборка не является репрезентативной.
+ []
+
+
+Overfull \hbox (21.73282pt too wide) in paragraph at lines 167--168
+\EU1/TimesNewRoman(0)/m/n/12 Такой вывод можно сделать исходя из графика плотно
+сти логарифма заработной платы: в идеальной
+ []
+
+File: image1.jpg Graphic file (type QTm)
+<use  "image1.jpg" > [5] [6] (./inst_proj.aux) ) 
 Here is how much of TeX's memory you used:
- 16070 strings out of 493706
- 321651 string characters out of 6145769
+ 16082 strings out of 493706
+ 321711 string characters out of 6145769
  352510 words of memory out of 5000000
- 19280 multiletter control sequences out of 15000+600000
+ 19281 multiletter control sequences out of 15000+600000
  11340 words of font info for 67 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,6n,61p,10387b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on inst_proj.pdf (4 pages).
+Output written on inst_proj.pdf (6 pages).
